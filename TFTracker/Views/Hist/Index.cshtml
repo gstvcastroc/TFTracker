@@ -1,0 +1,21 @@
+﻿@model TFTracker.Views.ViewModel.ViewModelSummoner
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<form asp-action="Index">
+    <div class="form-group">
+        <label asp-for="userName" class="control-label"></label>
+        <input asp-for="userName" class="form-control" />
+        <span asp-validation-for="userName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Enviar" class="btn btn-primary" />
+        <a class="btn btn-info" href="javascript:window.history.back();">Voltar</a>
+    </div>
+</form>
+

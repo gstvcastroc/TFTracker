@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFTracker", "TFTracker\TFTracker.csproj", "{4ED90D83-B402-44BF-A1A2-5674BBDCA140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFTrackerRepository", "TFTrackerRepository\TFTrackerRepository.csproj", "{42B21F7D-076E-4908-BC4E-C1BA6DF0678B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFTrackerData", "TFTrackerData\TFTrackerData.csproj", "{56AA4EFD-06D1-4691-BDFF-405E466B40D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ED90D83-B402-44BF-A1A2-5674BBDCA140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED90D83-B402-44BF-A1A2-5674BBDCA140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED90D83-B402-44BF-A1A2-5674BBDCA140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED90D83-B402-44BF-A1A2-5674BBDCA140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B21F7D-076E-4908-BC4E-C1BA6DF0678B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B21F7D-076E-4908-BC4E-C1BA6DF0678B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B21F7D-076E-4908-BC4E-C1BA6DF0678B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B21F7D-076E-4908-BC4E-C1BA6DF0678B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AA4EFD-06D1-4691-BDFF-405E466B40D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AA4EFD-06D1-4691-BDFF-405E466B40D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AA4EFD-06D1-4691-BDFF-405E466B40D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AA4EFD-06D1-4691-BDFF-405E466B40D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1DDF140-4843-4C78-BD64-BBD0ACD94836}
+	EndGlobalSection
+EndGlobal

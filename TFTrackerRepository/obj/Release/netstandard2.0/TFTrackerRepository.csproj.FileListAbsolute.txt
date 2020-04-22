@@ -1,0 +1,11 @@
+C:\asp core\TFTracker\TFTrackerRepository\bin\Release\netstandard2.0\TFTrackerRepository.deps.json
+C:\asp core\TFTracker\TFTrackerRepository\bin\Release\netstandard2.0\TFTrackerRepository.dll
+C:\asp core\TFTracker\TFTrackerRepository\bin\Release\netstandard2.0\TFTrackerRepository.pdb
+C:\asp core\TFTracker\TFTrackerRepository\obj\Release\netstandard2.0\TFTrackerRepository.csproj.CoreCompileInputs.cache
+C:\asp core\TFTracker\TFTrackerRepository\obj\Release\netstandard2.0\TFTrackerRepository.AssemblyInfoInputs.cache
+C:\asp core\TFTracker\TFTrackerRepository\obj\Release\netstandard2.0\TFTrackerRepository.AssemblyInfo.cs
+C:\asp core\TFTracker\TFTrackerRepository\obj\Release\netstandard2.0\TFTrackerRepository.dll
+C:\asp core\TFTracker\TFTrackerRepository\obj\Release\netstandard2.0\TFTrackerRepository.pdb
+C:\asp core\TFTracker\TFTrackerRepository\bin\Release\netstandard2.0\TFTrackerData.dll
+C:\asp core\TFTracker\TFTrackerRepository\bin\Release\netstandard2.0\TFTrackerData.pdb
+C:\asp core\TFTracker\TFTrackerRepository\obj\Release\netstandard2.0\TFTrackerRepository.csproj.CopyComplete

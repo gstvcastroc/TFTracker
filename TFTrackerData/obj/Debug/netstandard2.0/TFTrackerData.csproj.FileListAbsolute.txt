@@ -1,0 +1,8 @@
+C:\asp core\TFTracker\TFTrackerData\obj\Debug\netstandard2.0\TFTrackerData.csproj.CoreCompileInputs.cache
+C:\asp core\TFTracker\TFTrackerData\obj\Debug\netstandard2.0\TFTrackerData.AssemblyInfoInputs.cache
+C:\asp core\TFTracker\TFTrackerData\obj\Debug\netstandard2.0\TFTrackerData.AssemblyInfo.cs
+C:\asp core\TFTracker\TFTrackerData\bin\Debug\netstandard2.0\TFTrackerData.deps.json
+C:\asp core\TFTracker\TFTrackerData\bin\Debug\netstandard2.0\TFTrackerData.dll
+C:\asp core\TFTracker\TFTrackerData\bin\Debug\netstandard2.0\TFTrackerData.pdb
+C:\asp core\TFTracker\TFTrackerData\obj\Debug\netstandard2.0\TFTrackerData.dll
+C:\asp core\TFTracker\TFTrackerData\obj\Debug\netstandard2.0\TFTrackerData.pdb
